@@ -1,0 +1,15 @@
+{
+  "originHash" : "e20aabb3be6d5f75ec4766bb72294f4ed8bcac2e30257325f0c1c31e7b714a66",
+  "pins" : [
+    {
+      "identity" : "tuikit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/phranck/TUIkit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9c668ecf7b60533ccf7f636a26ce99d251ef3183"
+      }
+    }
+  ],
+  "version" : 3
+}

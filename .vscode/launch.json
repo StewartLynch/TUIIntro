@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:TUIIntro}",
+            "name": "Debug TUIIntro",
+            "target": "TUIIntro",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug TUIIntro"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:TUIIntro}",
+            "name": "Release TUIIntro",
+            "target": "TUIIntro",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release TUIIntro"
+        }
+    ]
+}
