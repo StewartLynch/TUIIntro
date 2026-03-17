@@ -2,8 +2,8 @@
 
 A TUIkit terminal application.
 
-Ai first application created in TUIKit as described in the YouTube video
-
+First application created in TUIKit as described in the YouTube video
+This is the completed source code for the introductor video on TUIKit
 
 
 ## Quick Start
