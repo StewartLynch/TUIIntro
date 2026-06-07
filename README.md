@@ -5,7 +5,9 @@ A TUIkit terminal application.
 First application created in TUIKit as described in the YouTube video.
 
 This is the completed source code for the introductory video on TUIKit
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=T0Q1jMIN2D8
+" target="_blank"><img src="http://img.youtube.com/vi/T0Q1jMIN2D8/0.jpg" 
+alt="Intro to TUIKit" width="480" height="360" border="1" /></a>
 
 ## Quick Start
 
